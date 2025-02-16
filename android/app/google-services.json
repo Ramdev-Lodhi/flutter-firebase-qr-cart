@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857022016508",
+    "project_id": "machinetask-b7062",
+    "storage_bucket": "machinetask-b7062.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857022016508:android:243ec27dd9dfaa6e336079",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXgAPj_OYpcKDQ-24PztINYG_jHXtjmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857022016508:android:13b035ec39bab8b7336079",
+        "android_client_info": {
+          "package_name": "com.example.technorizen_machine_task_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXgAPj_OYpcKDQ-24PztINYG_jHXtjmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
