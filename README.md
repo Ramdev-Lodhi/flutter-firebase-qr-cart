@@ -1,16 +1,47 @@
-# technorizen_machine_task_ecom
+# 📱 Flutter Firebase QR Cart
 
-A new Flutter project.
+A simple e-commerce app built using **Flutter** and **Firebase**, featuring QR code scanning for adding products to the cart.
 
-## Getting Started
+## 🚀 Features
+- **Firebase Integration**: Firestore for product storage.
+- **Product Entry Form**: Add product details (name, description, price, QR Code ID).
+- **QR Code Scanner**: Scan QR codes to fetch product details.
+- **Product Details Page**: Displays product info with a dynamically generated QR code.
+- **Cart Functionality**: Add products to the cart via QR code scanning.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) **Flutter** → Frontend UI  
+- ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange) **Firebase Firestore** → Database  
+- ![Auth](https://img.shields.io/badge/Auth-Optional-green) **Firebase Authentication** → User login (Optional)  
+- ![QR Code](https://img.shields.io/badge/QR--Code-Scanner-red) **qr_code_scanner** → QR Code Scanning  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 App Preview
+### 3D iPhone Mockup
+![3D iPhone Mockup](https://raw.githubusercontent.com/username/repo/main/path-to-image.png)
+
+## 🔧 Setup & Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/flutter-firebase-qr-cart.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd flutter-firebase-qr-cart
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Configure Firebase:
+   - Add `google-services.json` (Android) & `GoogleService-Info.plist` (iOS) in respective directories.
+   - Update Firestore database rules.
+5. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## 📩 Contact
+For any queries, reach out at [ramdevlodhi9399@gmail.com](mailto:ramdevlodhi9399@gmail.com)
+
